@@ -24,6 +24,7 @@ A robust Chess application developed in Python. This project features a graphica
 Master the game with these quick keyboard and mouse commands:
 - **LMB (Left Mouse Button):** Click to select a piece and click again to move it.
 - **Z:** **Undo move.** Mistakenly moved a piece? Press `Z` to go back one step.
+- **X:** **Redo move.** Changed your mind again? Press `X` to restore the undone move.
 - **Escape (ESC):** **Main Menu.** Instantly exit the current match and return to the home screen.
 - **R:** **Reset Game.** Restart the match from the beginning at any moment.
 
